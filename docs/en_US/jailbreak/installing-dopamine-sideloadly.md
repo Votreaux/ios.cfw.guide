@@ -137,7 +137,7 @@ While Dopamine is now installed and setup, this next section - *while technicall
 1. Tap "Get"
 1. Tap the "Queued" bar at the bottom of the page
 1. Tap "Confirm"
-1. install the `TrollStore Helper` package
+1. Install the `TrollStore Helper` package
 1. After TrollStore Helper installs, close Sileo
 1. Open the `TrollHelper` app on your home screen
 1. Press `Install TrollStore`
